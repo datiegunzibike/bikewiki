@@ -1,6 +1,6 @@
-title: git-wiki
-description: git-wiki is a jekyll theme originally based on jekyll-theme-minimal
-show_downloads: true
+title: 骑行 - wiki
+description: 收集关于骑行的一些基本知识，以及维护，安全
+show_downloads: false
 git_branch: master
 logo_url:
 google_analytics:
